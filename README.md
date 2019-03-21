@@ -13,8 +13,8 @@ A temporary repo created to teach people about forking repos and submitting pull
 - 1 + 1 = 2
 - 1 + 2 = 3
 - 1 + 3 = 4
-- 1 + 4 + 6
 - hey david ;)
+- 1 + 4 = 5
 
 #### Java
 ```java
